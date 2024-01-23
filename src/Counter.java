@@ -1,4 +1,4 @@
-package edu.wit.csds;
+
 import java.util.Scanner;
 
 public class Counter {
